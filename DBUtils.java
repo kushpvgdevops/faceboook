@@ -1,2 +1,3 @@
+hello this is the new line in masterline
 hello guys...
 this is the java file which contains the DB connection logic
